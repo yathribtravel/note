@@ -1,0 +1,29 @@
+Introduction
+1.1 Role of JavaScript in React Development
+1.2 Importance of a Strong Foundation
+Variable Declaration
+2.1 Defining Variables
+    2.1.1 Using const for Declaration
+    2.1.2 Using let for Mutable Variables
+2.2 Working with Template Strings
+Function Creation
+3.1 Function Declarations
+3.2 Function Expressions
+3.3 Default Parameters
+3.4 Arrow Functions
+3.5 Higher-order function 
+JavaScript Compilation
+4.1 Understanding the Compilation Process
+Working with Objects and Arrays
+5.1 Destructuring Objects
+5.2 Destructuring Arrays
+5.3 Enhancing Objects with Object Literal
+5.4 Utilizing the Spread Operator
+Asynchronous JavaScript
+6.1 Introduction to Asynchronous Programming
+6.2 Simple Promises with Fetch
+6.3 Async/Await for Promise Handling
+Classes and ES6 Modules
+7.1 Introduction to Classes
+7.2 Organizing Code with ES6 Modules
+7.3 Overview of CommonJS
